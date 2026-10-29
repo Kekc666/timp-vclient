@@ -1,0 +1,16 @@
+BasedOnStyle: WebKit
+ColumnLimit: 80
+IndentWidth: 4
+BreakBeforeBraces: WebKit
+AllowShortFunctionsOnASingleLine: Empty
+NamespaceIndentation: None
+FixNamespaceComments: false
+SortIncludes: true
+IncludeBlocks: Preserve
+SpaceBeforeCpp11BracedList: false
+Cpp11BracedListStyle: true
+AlignAfterOpenBracket: Align
+BreakBeforeBinaryOperators: None
+PointerAlignment: Left
+ReflowComments: true
+AlignTrailingComments: true
